@@ -72,4 +72,3 @@ $ heroku run rails db:migrate
 ⇨アプリケーションにアクセスできれば成功。
 Herokuアプリのアドレスはhttps://アプリ名.herokuapp.com/ のように設定される。
 
-
